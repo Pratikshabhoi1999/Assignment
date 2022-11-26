@@ -1,0 +1,42 @@
+A]What is reverse-i-search in a Linux terminal?
+--->
+
+reverse-i-search
+
+^-S
+
+stty -ixon
+
+~/.bashrc
+
+~/.bash_profile
+
+reverse-i-search
+
+i-search
+
+stty -ixon
+
+-ixon
+
+-ixon
+
+i-search
+
+
+B]How do you list out the hidden directoriesusing Linux command line tool?
+-->
+
+use the ls -a option, which commands ls to list "all" files and folders 
+
+
+C]How comfortable are you with using Linux-based-OS like Ubuntu,Centos,etc?
+-->
+
+Designed to support high-volume and multithreading applications, Linux is well-suited for all types of server applications. 
+Desktop OS for personal productivity computing. Linux is an open source and freely available desktop environment for users who prefer it to commercial OSes.
+
+
+D]Have you ever used servers to host any wed application in past? if yes,what service did you set up(like-Apache/Nginx/FTP/SMPT.etc)?
+-->
+No
